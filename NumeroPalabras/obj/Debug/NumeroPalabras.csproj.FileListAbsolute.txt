@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\bin\Debug\NumeroPalabras.dll
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\bin\Debug\NumeroPalabras.pdb
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\obj\Debug\NumeroPalabras.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\obj\Debug\NumeroPalabras.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\obj\Debug\NumeroPalabras.dll
+C:\Users\user\source\repos\NumeroPalabras\NumeroPalabras\obj\Debug\NumeroPalabras.pdb
